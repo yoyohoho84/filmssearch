@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <p>
         hello
+          {/*// ЗДЕСЬ БУДУТ РОУТЫ !!!! */}
       </p>
     </div>
   );
